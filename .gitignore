@@ -1,0 +1,4 @@
+node_modules
+books-service/node_modules/*
+customers-service/node_modules/*
+orders-service/node_modules/*
